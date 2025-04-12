@@ -1,0 +1,6 @@
+#root html body{
+  max-height: 100vh;
+  max-width: 100vw;
+  padding: 0%;
+  margin: 0%;
+}
